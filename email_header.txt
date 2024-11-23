@@ -1,0 +1,16 @@
+Delivered-To: student@umbc.edu
+Received: from mail.umbc.edu (mail.umbc.edu [192.168.1.100])
+        by smtp.umbc.edu with ESMTPSA id xxxxxxxx
+        for <student@umbc.edu>;
+        Sat, 8 Feb 2024 18:30:00 -0500
+Return-Path: <ceo@umbc.edu>
+Received-SPF: pass (smtp.umbc.edu: domain of umbc.edu designates 192.168.1.100 as permitted sender)
+Authentication-Results: smtp.umbc.edu;
+        spf=pass (sender SPF check passed)
+        dkim=pass (signature verified)
+        arc=pass
+From: ceo@umbc.edu
+To: student@umbc.edu
+Subject: Urgent: Wire Transfer Needed for UMBC's New Project
+Date: Sat, 8 Feb 2024 18:30:00 -0500
+Message-ID: <xxxxxx@umbc.edu>
