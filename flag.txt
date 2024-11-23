@@ -1,0 +1,1 @@
+CTF{Don't_Click_on_Random_Links}
